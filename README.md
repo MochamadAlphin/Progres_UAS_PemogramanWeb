@@ -6,7 +6,7 @@ Aplikasi ini memungkinkan pengguna untuk mencari jadwal kereta, memesan tiket, m
 
 ---
 
-Tujuan Proyek
+## Tujuan Proyek
 
 - Menerapkan pengembangan aplikasi web berbasis frontend dan backend
 - Mengelola data menggunakan database terstruktur
@@ -15,7 +15,7 @@ Tujuan Proyek
   
 ---
 
-Alur Sistem
+## Alur Sistem
 
 Login / Register
 
@@ -54,7 +54,7 @@ Tiket Saya
 
 ---
 
-Pengembangan dan Kekurangan
+## Pengembangan dan Kekurangan
 
 - Sistem CRUD belum lengkap, saat ini hanya mendukung penambahan dan penampilan data, sedangkan fitur update dan delete masih belum tersedia sepenuhnya.
 - Footer dengan format standar belum diterapkan di semua halaman aplikasi.

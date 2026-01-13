@@ -18,7 +18,6 @@ Tujuan Proyek
 Alur Sistem
 
 Login / Register
-
 ↓  
 
 Dashboard
@@ -27,7 +26,6 @@ Pilih Kereta
 Beli Tiket
 
 ↓  
-
 Pembayaran
 
 ↓  

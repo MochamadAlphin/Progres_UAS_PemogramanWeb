@@ -12,23 +12,10 @@ Tujuan Proyek
 - Mengelola data menggunakan database terstruktur
 - cookies dan login session
 - Menyediakan fitur laporan PDF dan Excel
+  
+---
 
 Alur Sistem
-
-Login / Register
-↓
-Dashboard
-Cari Jadwal
-Pilih Kereta
-Beli Tiket
-↓  
-Pembayaran
-↓
-Bukti & Tiket Digital
-↓
-Tiket Saya
-
-
 
 Login / Register
 ↓  

@@ -1,4 +1,5 @@
-BERANGKATIN – Web Ticketing Kereta
+# BERANGKATIN
+## Booking Elektronik & Reservasi Angkutan Kereta Indonesia
 
 BERANGKATIN Web adalah aplikasi berbasis website untuk pemesanan dan reservasi tiket kereta api Indonesia.
 Aplikasi ini memungkinkan pengguna untuk mencari jadwal kereta, memesan tiket, melihat promo, dan menyimpan bukti pembelian secara digital.

@@ -14,18 +14,20 @@ cookies dan login session
 Menyediakan fitur laporan PDF dan Excel
 
 Alur Sistem
+
 Login / Register
 ↓
 Dashboard
 Cari Jadwal
 Pilih Kereta
 Beli Tiket
-↓
+↓  
 Pembayaran
 ↓
 Bukti & Tiket Digital
 ↓
 Tiket Saya
+
 
 ---
 
@@ -42,13 +44,14 @@ Tiket Saya
 | Profile     | Data akun         |
 
 ---
+
 Pengembangan dan Kekurangan
 
-Sistem CRUD belum lengkap, saat ini hanya mendukung penambahan dan penampilan data, sedangkan fitur update dan delete masih belum tersedia sepenuhnya.
-Footer dengan format standar belum diterapkan di semua halaman aplikasi.
-Session dan cookies belum berjalan secara optimal sehingga beberapa halaman belum sepenuhnya terlindungi oleh sistem login.
-Integrasi antara backend dan frontend belum sepenuhnya terhubung, beberapa fitur masih menggunakan data statis atau belum melalui API secara penuh.
-Aplikasi belum di-hosting secara online dan masih dijalankan pada lingkungan lokal (localhost).
+- Sistem CRUD belum lengkap, saat ini hanya mendukung penambahan dan penampilan data, sedangkan fitur update dan delete masih belum tersedia sepenuhnya.
+- Footer dengan format standar belum diterapkan di semua halaman aplikasi.
+- Session dan cookies belum berjalan secara optimal sehingga beberapa halaman belum sepenuhnya terlindungi oleh sistem login.
+- Integrasi antara backend dan frontend belum sepenuhnya terhubung, beberapa fitur masih menggunakan data statis atau belum melalui API secara penuh.
+- Aplikasi belum di-hosting secara online dan masih dijalankan pada lingkungan lokal (localhost).
 
 ---
 

@@ -64,39 +64,39 @@ Tiket Saya
 
 ---
 
-LOGIN 
+## LOGIN 
 
 <img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/eec8385d-0a66-427b-8ff8-b2c2a85460a3" />
 
-REGISTER 
+## REGISTER 
 
 <img width="940" height="487" alt="image" src="https://github.com/user-attachments/assets/dd6c86e6-500c-40ac-9309-c62c1a415716" />
 
-DASHBOARD 
+## DASHBOARD 
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/61ce00c5-acc4-4c35-877f-988811239f46" />
 
-CARI JADWAL 
+## CARI JADWAL 
 
 <img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/9314a15c-5412-4e1e-8cef-11cfb25a470a" />
 
-TIKET SAYA 
+## TIKET SAYA 
 
 <img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/09800358-5a0b-464a-8c96-cf3fa9bf281b" />
 
-PROMO 
+## PROMO 
 
 <img width="940" height="483" alt="image" src="https://github.com/user-attachments/assets/33a4b86c-8418-489e-bbad-c463bd719759" />
 
-PROFILE  
+## PROFILE  
 
 <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/4375c4b6-6685-4a73-8a66-fbc2f971bced" />
 
-BELI TIKET 
+## BELI TIKET 
 
 <img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/630a180a-2bb7-4adf-b6f2-af25a61c074e" />
 
-BUKTI 
+## BUKTI 
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/f300225d-7b43-47ed-80dd-2cb3cc03b733" />
 

@@ -8,10 +8,10 @@ Aplikasi ini memungkinkan pengguna untuk mencari jadwal kereta, memesan tiket, m
 
 Tujuan Proyek
 
-Menerapkan pengembangan aplikasi web berbasis frontend dan backend
-Mengelola data menggunakan database terstruktur
-cookies dan login session
-Menyediakan fitur laporan PDF dan Excel
+- Menerapkan pengembangan aplikasi web berbasis frontend dan backend
+- Mengelola data menggunakan database terstruktur
+- cookies dan login session
+- Menyediakan fitur laporan PDF dan Excel
 
 Alur Sistem
 
@@ -28,6 +28,20 @@ Bukti & Tiket Digital
 ↓
 Tiket Saya
 
+
+
+Login / Register
+↓  
+Dashboard
+Cari Jadwal
+Pilih Kereta
+Beli Tiket
+↓  
+Pembayaran
+↓  
+Bukti & Tiket Digital
+↓  
+Tiket Saya
 
 ---
 

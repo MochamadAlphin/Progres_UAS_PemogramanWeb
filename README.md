@@ -79,10 +79,14 @@ BUKTI
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/f300225d-7b43-47ed-80dd-2cb3cc03b733" />
 
-Nama : Mochamad Alphin
-NIM : 23552011067
-Mata Kuliah : Pemrograman Web1
-Dosen Pengampu :Nova Agustina, ST., M.Kom.
+
+##  Pengembang
+
+- Nama        : *Mochamad Alphin*
+- NIM         : *23552011067*  
+- Mata Kuliah : Pemrograman Web1
+- Dosen Pengampu : Nova Agustina, ST., M.Kom.
+
 
 
 

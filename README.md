@@ -18,16 +18,24 @@ Tujuan Proyek
 Alur Sistem
 
 Login / Register
+
 ↓  
+
 Dashboard
 Cari Jadwal
 Pilih Kereta
 Beli Tiket
+
 ↓  
+
 Pembayaran
+
 ↓  
+
 Bukti & Tiket Digital
+
 ↓  
+
 Tiket Saya
 
 ---
